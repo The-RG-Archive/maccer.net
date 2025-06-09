@@ -1,2 +1,2 @@
 # maccer.net
-maccer.net website restoration for the-rg-archive.github.io
+## Website: https://the-rg-archive.github.io/maccer.net/
